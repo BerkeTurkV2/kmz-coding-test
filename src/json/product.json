@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sebze",
+      "image": "https://www.aftamarket.com.tr/sebze-38-sebzeler-manav-23805-26-B.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Meyve",
+      "image": "https://www.verita.com.tr/wp-content/uploads/2014/08/elma.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kahvaltılık",
+      "image": "https://img.memurlar.net/galeri/21927/f858a7ad-fe98-ec11-810b-a0369f7d1486.jpg?width=800"
+    },
+    {
+      "id": 4,
+      "name": "Unlu Mamüller",
+      "image": "https://www.tandirunlumamuller.com/assets/images/about-img3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Atıştırmalık",
+      "image": "https://productimages.hepsiburada.net/s/31/1500/10337805500466.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dondurma",
+      "image": "https://rokodondurmakahve.com.tr/resim/anasayfa-1.png"
+    },
+    {
+      "id": 7,
+      "name": "Sporcu Besini",
+      "image": "https://cdn.cimri.io/image/1200x1200/sporcubesinlerifiyatlarvemodelleri_159982348.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Et & Tavuk",
+      "image": "https://www.gurmar.com.tr/images/thumbs/0005508_dana-bonfile-kg_360.jpg",
+      "subcategories": [
+        {
+          "id": 9,
+          "name": "Kırmızı Et",
+          "products": [
+            {
+              "id": 1,
+              "name": "Kuşbaşı Dana",
+              "weight": "1 Kg",
+              "image": "https://cdn.cimri.io/market/260x260/1-kg-dana-kusbasi-_286488.jpg",
+              "price": "100,25 TL"
+            },
+            {
+              "id": 2,
+              "name": "Melek Sucuk",
+              "weight": "500 gr",
+              "image": "https://static.ticimax.cloud/35607/uploads/urunresimleri/buyuk/melek-vakumlu-parmak-sucuk-500-gr12230-2b-853.png",
+              "price": "68,60 TL"
+            },
+            {
+              "id": 3,
+              "name": "Kuşbaşı Dana",
+              "weight": "1 Kg",
+              "image": "https://cdn.cimri.io/market/260x260/1-kg-dana-kusbasi-_286488.jpg",
+              "price": "100,25 TL"
+            },
+            {
+              "id": 4,
+              "name": "Melek Sucuk",
+              "weight": "500 gr",
+              "image": "https://static.ticimax.cloud/35607/uploads/urunresimleri/buyuk/melek-vakumlu-parmak-sucuk-500-gr12230-2b-853.png",
+              "price": "68,60 TL"
+            },
+            {
+              "id": 5,
+              "name": "Kuşbaşı Dana",
+              "weight": "1 Kg",
+              "image": "https://cdn.cimri.io/market/260x260/1-kg-dana-kusbasi-_286488.jpg",
+              "price": "100,25 TL"
+            },
+            {
+              "id": 6,
+              "name": "Melek Sucuk",
+              "weight": "500 gr",
+              "image": "https://static.ticimax.cloud/35607/uploads/urunresimleri/buyuk/melek-vakumlu-parmak-sucuk-500-gr12230-2b-853.png",
+              "price": "68,60 TL"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Beyaz Et"
+        },
+        {
+          "id": 11,
+          "name": "Deniz Ürünleri"
+        },
+        {
+          "id": 12,
+          "name": "İşlenmiş Gıdalar"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Temel Gıda",
+      "image": "https://cdn03.ciceksepeti.com/cicek/kc6435917-1/XL/temel-gida-paketi-kc6435917-1-fa3ff19495824a2190ffc394c56efa89.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Anne/Bebek",
+      "image": "https://www.philips.com.tr/c-dam/b2c/category-pages/mother-and-child-care/master/mcc-redesign/locales/TR/buyume-480x360.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Evcil Hayvan",
+      "image": "https://n11scdn.akamaized.net/a1/640/03/17/97/29/IMG-3730190551448750900.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Temizlik",
+      "image": "https://www.klineks.com/images/ahsap-temizleyici.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kişisel Bakım",
+      "image": "https://tarkanreklam.com/wp-content/uploads/2022/06/kisisel-bakim-urunleri-slider.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Başdaş Ürünleri",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "id": 19,
+      "name": "İndirim Ürünleri",
+      "image": "https://1.bp.blogspot.com/-eDvBFLzGNeQ/VqIrKyIzU_I/AAAAAAAAIzQ/Isqe1Q_Y2n8/s1600/indirim.png"
+    }
+  ]
+}
